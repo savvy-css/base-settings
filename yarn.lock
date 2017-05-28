@@ -6,6 +6,14 @@
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/@savvy-css/box-shadow-variables/-/box-shadow-variables-0.0.2.tgz#5d99aaf2ce2c40e45fc88369e8ce43f3e81f8893"
 
+"@savvy-css/breakpoint-variables@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@savvy-css/breakpoint-variables/-/breakpoint-variables-0.0.2.tgz#50574de9c9bab5c71059664ec4714e77018a2f05"
+
+"@savvy-css/core-variables@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@savvy-css/core-variables/-/core-variables-0.0.2.tgz#7fde32bf16d1975d5d2241c42795073c9a90a005"
+
 "@savvy-css/spacing-variables@^0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@savvy-css/spacing-variables/-/spacing-variables-0.0.1.tgz#0a5d47759dee9258857d16ffd7d39260750cccd6"

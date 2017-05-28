@@ -20,8 +20,9 @@ This collection offers a convenient way to install all of the Savvy CSS utility 
 
 - [@savvy-css/animation-variables](https://github.com/savvy-css/animation-variables/) _\*In Progress_
 - [@savvy-css/box-shadow-variables](https://github.com/savvy-css/box-shadow-variables/) 
-- [@savvy-css/breakpoint-variables](https://github.com/savvy-css/breakpoint-variables/) _\*In Progress_
+- [@savvy-css/breakpoint-variables](https://github.com/savvy-css/breakpoint-variables/)
 - [@savvy-css/color-variables](https://github.com/savvy-css/color-variables/) _\*In Progress_
+- [@savvy-css/core-variables](https://github.com/savvy-css/core-variables/)
 - [@savvy-css/spacing-variables](https://github.com/savvy-css/spacing-variables/)
 - [@savvy-css/typography-settings](https://github.com/savvy-css/typography-settings/) _\*In Progress_
 - [@savvy-css/typography-variables](https://github.com/savvy-css/typography-variables/) 

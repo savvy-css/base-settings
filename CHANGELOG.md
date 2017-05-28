@@ -1,3 +1,9 @@
+# 0.0.5 &mdash; May 28, 2017
+
+- **[FEATURE]** Add `@savvy-css/breakpoint-variables` @ `^0.0.2`.
+- **[FEATURE]** Add `@savvy-css/core-variables` @ `^0.0.2`.
+
+
 # 0.0.4 &mdash; May 28, 2017
 
 - **[FEATURE]** Add `@savvy-css/box-shadow-variables` @ `^0.0.1`.
