@@ -28,7 +28,9 @@
     "deploy": "np"
   },
   "devDependencies": {
+    "@savvy-css/box-shadow-variables": "^0.0.2",
     "@savvy-css/spacing-variables": "^0.0.1",
+    "@savvy-css/typography-variables": "^0.0.1",
     "cssnano": "^3.10.0",
     "del-cli": "^1.0.0",
     "np": "^2.15.0",

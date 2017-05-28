@@ -2,9 +2,17 @@
 # yarn lockfile v1
 
 
+"@savvy-css/box-shadow-variables@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@savvy-css/box-shadow-variables/-/box-shadow-variables-0.0.2.tgz#5d99aaf2ce2c40e45fc88369e8ce43f3e81f8893"
+
 "@savvy-css/spacing-variables@^0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@savvy-css/spacing-variables/-/spacing-variables-0.0.1.tgz#0a5d47759dee9258857d16ffd7d39260750cccd6"
+
+"@savvy-css/typography-variables@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@savvy-css/typography-variables/-/typography-variables-0.0.1.tgz#4c40a34acabacfd88b0bde2176a33ecba1bd7da1"
 
 abbrev@1:
   version "1.1.0"
