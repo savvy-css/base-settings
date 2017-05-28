@@ -1,3 +1,9 @@
+# 0.0.4 &mdash; May 28, 2017
+
+- **[FEATURE]** Add `@savvy-css/box-shadow-variables` @ `^0.0.1`.
+- **[FEATURE]** Add `@savvy-css/typography-variables` @ `^0.0.1`.
+
+
 # 0.0.3 &mdash; May 26, 2017
 
 - **[PATCH]** Remove `postcss-cssnext` from transformations -- the idea being that this project should just handle importing.
