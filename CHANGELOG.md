@@ -1,3 +1,9 @@
+# 0.1.0 &mdash; July 27, 2017
+
+- **[ENHANCEMENT]** Upgrade `@savvy-css/typography-variables` to `v0.1.0`.
+- Bump version to `0.1.0` to begin recommending usage.
+
+
 # 0.0.5 &mdash; May 28, 2017
 
 - **[FEATURE]** Add `@savvy-css/breakpoint-variables` @ `^0.0.2`.
