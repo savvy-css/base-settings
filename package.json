@@ -24,7 +24,7 @@
     "transform:watch": "postcss index.css -o build/base-settings.css --config postcss.config.js -w",
     "build": "npm run clean && npm run setup && npm run transform",
     "build:dist": "npm run clean && npm run setup && npm run transform:minify",
-    "prepublish": "nsp check && npm run clean && npm run setup && npm run build:dist",
+    "prepublishOnly": "nsp check && npm run clean && npm run setup && npm run build:dist",
     "deploy": "np"
   },
   "devDependencies": {
