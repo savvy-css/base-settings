@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/base-settings",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Base settings for Savvy CSS",
   "main": "build/base-settings.css",
   "style": "build/base-settings.css",
