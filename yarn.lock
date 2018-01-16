@@ -18,9 +18,9 @@
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@savvy-css/spacing-variables/-/spacing-variables-0.0.1.tgz#0a5d47759dee9258857d16ffd7d39260750cccd6"
 
-"@savvy-css/typography-variables@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@savvy-css/typography-variables/-/typography-variables-0.1.0.tgz#c766638fefbc1f4e4b026fefd5d0faadd0ec83b6"
+"@savvy-css/typography-variables@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@savvy-css/typography-variables/-/typography-variables-0.2.1.tgz#250aa159884c79e1e7a7961144896928c192e4c6"
 
 abbrev@1:
   version "1.1.0"

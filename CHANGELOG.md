@@ -1,3 +1,8 @@
+# 0.1.1 &mdash; January 16, 2018
+
+- **[ENHANCEMENT]** Upgrade `@savvy-css/typography-variables` to `v0.2.1`.
+
+
 # 0.1.0 &mdash; July 27, 2017
 
 - **[ENHANCEMENT]** Upgrade `@savvy-css/typography-variables` to `v0.1.0`.
